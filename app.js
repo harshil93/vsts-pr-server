@@ -2,8 +2,8 @@ const express = require('express')
 var bodyParser = require('body-parser')
 const vsts = require("vso-node-api");
 
-const collectionURL = "http://localhost:8080/tfs/DefaultCollection";    
-const token = "fgmmv76t3dsx4cgndniqai4cdxiwewsfuirvqy2oqfuxrsbleogq";
+const collectionURL = "http://localhost:8080/tfs/DefaultCollection";
+const token = "fgmmv76t3dsx4cgndniqai4cdxiwewsfuirvqy2oqfuxrsbleogq"; // This is bad, but who cares this is a developement server token which no one can access except me.
 
 const app = express()
 
