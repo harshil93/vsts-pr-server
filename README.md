@@ -9,5 +9,5 @@ For more details see the links below.
 
 [Git pull request statuses API](https://www.visualstudio.com/en-us/docs/integrate/api/git/pull-requests/pullrequeststatuses)
 
-[Configure a branch policy for an external service](https://docs.microsoft.com/en-us/vsts/git/how-to/pr-status-policy)
+[Configure a branch policy for an external service](https://docs.microsoft.com/en-us/vsts/git/how-to/pr-status-policy) asdfasdf
 
